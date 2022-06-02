@@ -87,8 +87,9 @@ button:active {
 
 /* Loader */
 .loader {
-    border: 5px solid #1d3557;
-    border-top: 5px solid #f1faee;
+    border: #f1faee;
+    border-top: 10px solid #1d3557;
+    border-bottom: 10px solid #1d3557;
     border-radius: 50%;
     width: 50px;
     height: 50px;
